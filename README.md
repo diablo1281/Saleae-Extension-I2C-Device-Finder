@@ -8,3 +8,7 @@ Settings:
 - `Device Address` - enter device address you are looking for, format may be binary [0b00000000 | 00000000], decimal or hex [0x00 | 00]
 - `Address Type` - select coding for entered address
   
+![settings_example](setting_example.png "Settings example")
+  
+# Example
+![example_view](screenshot.png "Example view")

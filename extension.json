@@ -1,0 +1,13 @@
+{
+  "name": "I2C Device Finder",
+  "apiVersion": "1.0.0",
+  "author": "Jędrzej Szczepaniak",
+  "version": "0.0.1",
+  "description": "Simple addon to mark address messages for choosen device address",
+  "extensions": {
+    "I2C Device Finder": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
